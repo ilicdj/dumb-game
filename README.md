@@ -1,5 +1,26 @@
-# Vue 3 + Vite
+# Dumb Game
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Getting familiar with options api in Vue framework while building a dumb game.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Links
+
+Preview hosted project: [https://mds-praksa-ilicdj.netlify.app/](https://dumb-gamee.netlify.app/)
+
+## Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/ilicdj/dumb-game
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd dumb-game
+   ```
+3. Install dependencies:
+   ```bash
+   npm i
+   ```
+4. Start the project:
+   ```bash
+   npm start
+   ```   
