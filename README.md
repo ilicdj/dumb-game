@@ -4,7 +4,7 @@ Getting familiar with options api in Vue framework while building a dumb game.
 
 ## Links
 
-Preview hosted project: [https://mds-praksa-ilicdj.netlify.app/](https://dumb-gamee.netlify.app/)
+Preview hosted project: [https://dumb-game.netlify.app](https://dumb-gamee.netlify.app/)
 
 ## Installation
 
